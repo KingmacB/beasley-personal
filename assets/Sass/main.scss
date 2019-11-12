@@ -1,7 +1,9 @@
 //MAIN SASS FILE
 
 @import 'base/reset';
+@import 'abstracts/veriables';
+@import 'abstracts/placeholders';
+@import 'abstracts/mixins';
 @import 'themes/theme';
-
 //MASTER OVERIDES BELOW
 
